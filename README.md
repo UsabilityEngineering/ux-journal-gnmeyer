@@ -1,6 +1,6 @@
-# UX Portfolio
+# Grant's UX Portfolio
 
-About me...
+My names Grant Meyer, and after 5 1/2 years I am on my final semester. Its been a journey to get to this point. Im going into DevOps and excited to see where that takes me. Outside of class I like to swim, drum and do church things.
 
 ## UX Team Project
 
