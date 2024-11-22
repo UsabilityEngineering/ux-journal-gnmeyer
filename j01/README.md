@@ -1,4 +1,4 @@
-UX Journal 1
+UX Journal 1 
 Grant Meyer 
 
   I occasionally use a nutrition app called *“BobbyApproved”*. This app will inform you about the ingredients of food items from a variety of different stores. What I want to focus on in this journal is the confusing menu system which leads to **user dissatisfaction** because it does not behave as expected. To set the scene, when I log onto the app I am easily able to navigate to the *“Works at All Stores”* menu and can clearly hit the *“View all”* button to navigate to a page which displays all stores that the app has data on. 
