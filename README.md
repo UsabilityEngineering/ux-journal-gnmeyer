@@ -9,4 +9,4 @@ Coming soon.
 ## UX Journal
 
 [Incongruent Menu Leading To Dissatisfaction J01](j01/)
-[Incongruent Menu Leading To Dissatisfaction J02](j02/)
+[Second Iteration of Incongruent Menu Leading To Dissatisfaction J02](j02/)
